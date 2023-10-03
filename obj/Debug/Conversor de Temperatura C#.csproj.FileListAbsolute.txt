@@ -1,0 +1,10 @@
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\bin\Debug\Conversor de Temperatura C#.exe.config
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\bin\Debug\Conversor de Temperatura C#.exe
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\bin\Debug\Conversor de Temperatura C#.pdb
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor de Temperatura C#.csproj.AssemblyReference.cache
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor_de_Temperatura_C_.Form1.resources
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor_de_Temperatura_C_.Properties.Resources.resources
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor de Temperatura C#.csproj.GenerateResource.cache
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor de Temperatura C#.csproj.CoreCompileInputs.cache
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor de Temperatura C#.exe
+E:\C354R\Escritorio\Métodos Númericos\Conversor de Temperatura C#\obj\Debug\Conversor de Temperatura C#.pdb
